@@ -1,0 +1,2 @@
+# dktrdert
+quotex bot
